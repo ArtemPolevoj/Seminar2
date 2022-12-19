@@ -5,9 +5,9 @@ internal class Program
 {
 	private static void Main(string[] args)
 	{
-		//GetNumber.second();
+		GetNumber.second();
 		GetNumber.third();
-		//Week.weekend();
+		Week.weekend();
 
 		
 	}
